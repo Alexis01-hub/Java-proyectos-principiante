@@ -10,6 +10,7 @@ public class Principal extends javax.swing.JFrame {
     String[] telefonos = new String[10];
     String[] fechanac = new String[10];
     
+    
     public Principal() {
         initComponents();
     }

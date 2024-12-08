@@ -7,6 +7,7 @@ public class AgendaElectronica {
         Principal princ = new Principal();
         princ.setVisible(true);
         princ.setLocationRelativeTo(null);
+        
     }
     
 }
